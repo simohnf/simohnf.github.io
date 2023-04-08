@@ -14,6 +14,11 @@ It is also possible to set four presets, which can then be interpolated between 
 
 Further features include setting the filter order and type, as well as outputting only odd/even numbered bands.
 
+Synth Unprocessed
+<audio controls>
+<source src="/synthUnProcessed.mp3" type="audio/mp3">
+</audio>
+
 Synth Processed
 <audio controls>
 <source src="/synthProcessed.mp3" type="audio/mp3">
