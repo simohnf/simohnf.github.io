@@ -13,7 +13,16 @@ Clouds can be generated randomly, or the trajectory of through the grain can be 
 
 The device accepts either .wav or .aif files.
 
+A440 Sine Wave Unprocessed
+<audio controls>
+<source src="MP3s/a440_sine 1.mp3.mp3" type="audio/mp3">
+</audio>
 
+The following clouds were all generated with using the A440 Sine Wave above as the source material
+Grain Cloud 1
+<audio controls>
+<source src="MP3s/grainCloud1 1.mp3" type="audio/mp3">
+</audio>
 
 
 
