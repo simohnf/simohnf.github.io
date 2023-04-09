@@ -21,12 +21,17 @@ Synth Unprocessed
 
 Synth Processed
 <audio controls>
-<source src="/synthProcessed.mp3" type="audio/mp3">
+<source src="/MP3s/synthProcessed.mp3" type="audio/mp3">
+</audio>
+
+Synth Processed 2
+<audio controls>
+<source src="/MP3s/synthSpectral2.mp3" type="audio/mp3">
 </audio>
 
 White Noise Processed
 <audio controls>
-<source src="/whiteNoiseProcessed.mp3" type="audio/mp3">
+<source src="/MP3s/whiteNoiseProcessed.mp3" type="audio/mp3">
 </audio>
 
 [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1VB4b4DgNfR-8-mVQAgCkXsC2QYePTmHK/view?usp=sharing)
