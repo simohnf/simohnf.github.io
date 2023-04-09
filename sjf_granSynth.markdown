@@ -35,6 +35,4 @@ Grain Cloud 4
 </audio>
 
 
-
-
 [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1-6_tFqBjgz-IsT-wx8lEOyJ47jHNRJk9/view?usp=sharing)
