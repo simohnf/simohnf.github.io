@@ -19,3 +19,5 @@ You can find the source code for Jekyll at GitHub:
  -->
  
 sjf_plugins are a series of VST3 and AudioUnit plug-ins made using [JUCE](https://juce.com/) that explore a variety of sound manipulation and processing ideas. 
+
+[Mac OS Installers (VST3 and Audio Unit) for all plug-ins can be found here](https://drive.google.com/drive/folders/1piEnl876RCiykb0to32ifza1FNUnVpKk?usp=sharing)
