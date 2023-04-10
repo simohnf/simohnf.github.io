@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-sjf_plugins are the best
