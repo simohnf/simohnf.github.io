@@ -7,7 +7,7 @@ The AAIM (Algorithmically Assisted Improvised Music) performance system is a por
 
 Example videos:
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=eoj4ZDR5FSI&list=PLEZ5qOoNxYwVy1ynp8B4bTB01B2EqeKBM">
+src="https://www.youtube.com/embed/watch?v=eoj4ZDR5FSI&list=PLEZ5qOoNxYwVy1ynp8B4bTB01B2EqeKBM">
 </iframe>
 
 [MaxForLive Devices](https://drive.google.com/drive/folders/127ekOV4a4opyMvh4PmikDIRuewhGjmqj?usp=sharing)
@@ -15,7 +15,7 @@ src="https://www.youtube.com/watch?v=eoj4ZDR5FSI&list=PLEZ5qOoNxYwVy1ynp8B4bTB01
 
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=Fol9t-_k8ng">
+src="https://www.youtube.com/embed/watch?v=Fol9t-_k8ng">
 </iframe>
 
 AAIMduino.drums is a hardware based drum machine, which uses an Arduino Mega, 8 4*4 Matrix Keypads, and an assortment of switches, potentiometers, and push buttons, and the underlying logic of the AAIM.rhythmGen and AAIM.patternVary modules, to allow users to create, vary, and manipulate drum patterns. The keypads enable the user to enter patterns, which are then output as MIDI messages to any MIDI enabled sound generator.
