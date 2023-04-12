@@ -17,7 +17,7 @@ Synth Unprocessed
 
 Synth Processed
 <audio controls>
-<source src="/MP3s/synthMoog.mp3" type="audio/mp3">
+<source src="/MP3s/synth_Moog.mp3" type="audio/mp3">
 </audio>
 
 

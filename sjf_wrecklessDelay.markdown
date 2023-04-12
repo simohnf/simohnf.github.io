@@ -8,6 +8,8 @@ permalink: /plug-ins/sjf_wrecklessDelay/
 sjf_wrecklessDelay is a stereo delay with stereo pitch detune capabilities. 
 There is also an in built overdrive, and lfo modulation.
 
+(Commisioned by London based Drum and Bass artist [Wreckless](https://wrecklessdnb.bandcamp.com/))
+
 Funky Drummer Unprocessed
 <audio controls>
 <source src="/MP3s/funkyDummer160.mp3" type="audio/mp3">

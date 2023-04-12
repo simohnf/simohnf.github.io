@@ -22,7 +22,7 @@ title: sjf_plugins
 email: simonjohnfay@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   sjf_plugins: Plugins for creative sound design
-  
+
   read samples, mess with samples, output samples! 
   
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -36,6 +36,23 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+# change navigation
+header_pages:
+  - about.markdown
+  - AAIM.markdown
+  - Other.markdown
+  # - </li>
+  # - <li class="nav-item dropdown">
+  #    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+  #    <div class="dropdown-menu">
+  #      <a class="dropdown-item" href="#">Action</a>
+  #      <a class="dropdown-item" href="#">Another action</a>
+  #      <a class="dropdown-item" href="#">Something else here</a>
+  #      <div class="dropdown-divider"></div>
+  #      <a class="dropdown-item" href="#">Separated link</a>
+  #    </div>
+  #   </li>
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

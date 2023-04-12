@@ -18,6 +18,13 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll
  -->
  
-sjf_plugins are a series of VST3 and AudioUnit plug-ins made using [JUCE](https://juce.com/) that explore a variety of sound manipulation and processing ideas. 
+I am a PhD graduate and skilled computer programmer with ten years experience developing software for creative and educational purposes. I have participated in many successful collaborative projects and disseminated my research through international presentations and peer-reviewed publications. 
+ 
+I earned my PhD at the University of Calgary in Computational Media Design (CMD) under the supervision of Dr.  David Eagle and Dr. Jeff Boyd. During my doctorate I developed the [AAIM](/AAIM/) performance system, a portfolio of interconnectable algorithmic software modules, designed to facilitate improvisation and live performance of electronic music.  
+ 
+I completed my MA in Sonic Arts, receiving a distinction, at the Sonic Arts Research Centre(SARC), Belfast, focussing on the composition of electroacoustic music under the supervision of Dr. Eric Lyon. 
+ 
+Prior to this I graduated from Waterford Institute of Technology (WIT), receiving first class honours, where I majored in creative music technology and composition under Mark Graham and Dr. Eric Sweeney. While at WIT I also studied Jazz guitar under Dylan Bible.
 
-[Mac OS Installers (VST3 and Audio Unit) for all plug-ins can be found here](https://drive.google.com/drive/folders/1piEnl876RCiykb0to32ifza1FNUnVpKk?usp=sharing)
+I have performed extensively in a number of jazz, rock, and electronic groups in addition to giving numerous performances as a solo guitarist and solo electronic artist.
+ 
