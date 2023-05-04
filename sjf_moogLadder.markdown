@@ -21,4 +21,4 @@ Synth Processed
 </audio>
 
 
-[Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1qtE30yBxCzj1UDCUYw1rTEAtp3g8ZAb6/view?usp=sharing)
+### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1qtE30yBxCzj1UDCUYw1rTEAtp3g8ZAb6/view?usp=sharing)
