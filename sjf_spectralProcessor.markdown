@@ -14,6 +14,10 @@ It is also possible to set four presets, which can then be interpolated between 
 
 Further features include setting the filter order and type, as well as outputting only odd/even numbered bands.
 
+---
+
+
+### Audio Samples
 Synth Unprocessed
 <audio controls>
 <source src="/synthUnProcessed.mp3" type="audio/mp3">
@@ -33,5 +37,8 @@ White Noise Processed
 <audio controls>
 <source src="/MP3s/whiteNoiseProcessed.mp3" type="audio/mp3">
 </audio>
+
+---
+
 
 ### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1VB4b4DgNfR-8-mVQAgCkXsC2QYePTmHK/view?usp=sharing)

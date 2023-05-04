@@ -13,6 +13,10 @@ Clouds can be generated randomly, or the trajectory of through the grain can be 
 
 The device accepts either .wav or .aif files.
 
+---
+
+
+### Audio Samples
 The following clouds were all generated with using a sample of an A440 Sine Wave as the source material
 Grain Cloud 1
 <audio controls>
@@ -33,6 +37,8 @@ Grain Cloud 4
 <audio controls>
 <source src="/MP3s/grainCloud7.mp3" type="audio/mp3">
 </audio>
+
+---
 
 
 ### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1-6_tFqBjgz-IsT-wx8lEOyJ47jHNRJk9/view?usp=sharing)

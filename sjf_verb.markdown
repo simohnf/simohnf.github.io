@@ -9,6 +9,10 @@ permalink: /plug-ins/sjf_verb/
 sjf_verb is an algorithmic reverb design. 
 It has four possible early reflection types, input and delay network filtering, predelay and predlay buffer reversal, two type of modulation, shimmer capabilities, and a mono low frequency feature.
 
+---
+
+
+### Audio Samples
 Funky Drummer Unprocessed
 <audio controls>
 <source src="/MP3s/funkyDummer160.mp3" type="audio/mp3">
@@ -28,5 +32,8 @@ Synth Processed
 <audio controls>
 <source src="/MP3s/synth2Rev.mp3" type="audio/mp3">
 </audio>
+
+---
+
 
 ### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1G2FlqaL7k5ePSL9Nj0ROjffNeWtjyjEi/view?usp=sharing)

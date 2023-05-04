@@ -41,7 +41,8 @@ plugins:
 header_pages:
   - about.markdown
   - AAIM.markdown
-  - Other.markdown
+  - PD&Max.markdown
+  - Music.markdown
   # - </li>
   # - <li class="nav-item dropdown">
   #    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>

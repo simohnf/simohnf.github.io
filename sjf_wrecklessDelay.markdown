@@ -10,6 +10,9 @@ There is also an in built overdrive, and lfo modulation.
 
 (Commisioned by London based Drum and Bass artist [Wreckless](https://wrecklessdnb.bandcamp.com/))
 
+---
+
+### Audio Samples
 Funky Drummer Unprocessed
 <audio controls>
 <source src="/MP3s/funkyDummer160.mp3" type="audio/mp3">
@@ -30,5 +33,6 @@ Synth Processed
 <source src="/MP3s/synth2Delay.mp3" type="audio/mp3">
 </audio>
 
+---
 
 ### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1ClYOPMyz8EgQ5VZL_ezNkdCI6Y6QCvBp/view?usp=sharing)
