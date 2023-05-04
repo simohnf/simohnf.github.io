@@ -73,7 +73,7 @@ Spoken Word Convolved with [Sample of Cars Passing](https://freesound.org/people
 <source src="/MP3s/spokenWordAndCarsConvolved [2023-04-28 145527].mp3" type="audio/mp3">
 </audio>
 
-[Car Engine](https://freesound.org/people/prometheus888/sounds/458461/) convolved qith [Elephant Rot](https://freesound.org/people/roubignolle/sounds/34686/)
+[Car Engine](https://freesound.org/people/prometheus888/sounds/458461/) convolved with [Elephant Rot](https://freesound.org/people/roubignolle/sounds/34686/)
 <audio controls>
 <source src="/MP3s/carEngineAndElephantRotConvolved [2023-04-28 152139].mp3" type="audio/mp3">
 </audio>
