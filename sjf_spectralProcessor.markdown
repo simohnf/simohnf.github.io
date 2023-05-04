@@ -34,4 +34,4 @@ White Noise Processed
 <source src="/MP3s/whiteNoiseProcessed.mp3" type="audio/mp3">
 </audio>
 
-[Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1VB4b4DgNfR-8-mVQAgCkXsC2QYePTmHK/view?usp=sharing)
+### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1VB4b4DgNfR-8-mVQAgCkXsC2QYePTmHK/view?usp=sharing)
