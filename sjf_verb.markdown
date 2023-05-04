@@ -29,4 +29,4 @@ Synth Processed
 <source src="/MP3s/synth2Rev.mp3" type="audio/mp3">
 </audio>
 
-[Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1G2FlqaL7k5ePSL9Nj0ROjffNeWtjyjEi/view?usp=sharing)
+### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1G2FlqaL7k5ePSL9Nj0ROjffNeWtjyjEi/view?usp=sharing)
