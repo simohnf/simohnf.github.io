@@ -33,4 +33,4 @@ Funky Amen Processed
 
 
 
-[Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/17f0MGTelan0ovXFidRFYP-tmmOYg3U7M/view?usp=sharing)
+### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/17f0MGTelan0ovXFidRFYP-tmmOYg3U7M/view?usp=sharing)
