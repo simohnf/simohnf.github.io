@@ -7,7 +7,7 @@ I haven't written any music in a long time, but some of my older projects can st
 
 
 # Selected Performances
-[“There is pleasure...”_](https://soundcloud.com/ps_music/there-is-pleasure), The Well-Tempered GRAIL, CCRMA, Stanford, USA. May 18 2016
+[“There is pleasure...”](https://soundcloud.com/ps_music/there-is-pleasure), The Well-Tempered GRAIL, CCRMA, Stanford, USA. May 18 2016
 
 [“There is pleasure...”](https://soundcloud.com/ps_music/there-is-pleasure), International Computer Music Conference (ICMC), Denton, USA. Sep 30 2015 
 
