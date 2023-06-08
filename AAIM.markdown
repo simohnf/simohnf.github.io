@@ -4,7 +4,7 @@ title: AAIM
 permalink: /AAIM/
 ---
 
-<img width="866" alt="AAIM_Drums" src= "https://github.com/simohnf/sjf_AAIM_Cplusplus/blob/main/aaim_logo.png">
+<img width="866" alt="AAIM_Drums" src= "https://github.com/simohnf/simohnf.github.io/blob/main/aaim_logo.png">
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/eoj4ZDR5FSI?list=PLEZ5qOoNxYwVrghYJsvoYjnql9Ni5SUn3" title="AAIM.rhythmGen Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
