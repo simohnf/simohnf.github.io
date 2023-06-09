@@ -18,7 +18,7 @@ The AAIM system allows the insertion of rhythmic tuplets, rests, and additional 
 
 Additional features include Markov chain, segment shuffling, reverse, and palindrome variations enabling the creation of a wide range of alternative pattern.
 
-
+The Audio Unit can be placed as a MIDI Effect in Logic and the VST can be placed before an instrument in Reaper. In Ableton pou will need to [route the MIDI output to another channel](https://help.ableton.com/hc/en-us/articles/209070189-Accessing-the-MIDI-output-of-a-VST-plug-in)... other DAW's will probably need a similar approach.
 
 ---
 
