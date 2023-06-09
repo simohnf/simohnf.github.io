@@ -20,10 +20,8 @@
 
 title: sjf_plugins
 email: simonjohnfay@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: |-
   sjf_plugins: Plugins for creative sound design
-
-  read samples, mess with samples, output samples! 
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
