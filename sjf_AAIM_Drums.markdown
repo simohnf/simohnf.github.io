@@ -5,8 +5,7 @@ permalink: /plug-ins/sjf_AAIM_Drums/
 ---
 ![aaim_logo](https://github.com/simohnf/simohnf.github.io/assets/12850558/52df1788-1020-45c5-8f9b-4cbfee799a7c)
 
-<img width="781" alt="Screen Shot 2023-04-28 at 09 44 11" src="https://user-images.githubusercontent.com/12850558/235100836-e2efa1fc-10b8-4c5a-b70d-19d92d01397e.png">
-
+<img width="866" alt="AAIM_Drums" src="https://github.com/simohnf/simohnf.github.io/assets/12850558/c661285b-4127-4198-bae9-7d00086f901b">
 
 
 
