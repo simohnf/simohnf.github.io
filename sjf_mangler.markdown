@@ -7,8 +7,8 @@ permalink: /plug-ins/sjf_mangler/
 
 
 sjf_mangler is a sample manipulator that creates randomised variations to looped audio.
-Variations include segment reversals, playback speed changes, beat repeats, amplitide chanegs, and segment shuffling.
-The device includes the ability to sync playback to the host DAW's tempo, the potential to create patterns which do not follow the original time signature, and 6 different interpolation algorithms.
+Variations include segment reversals, playback speed changes, beat repeats, amplitude changes, and segment shuffling.
+The device includes the ability to sync playback to the host DAW's tempo, the potential to create patterns which do not follow the original time signature, and six different interpolation algorithms.
 
 ---
 
