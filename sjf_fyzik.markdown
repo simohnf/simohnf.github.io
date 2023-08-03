@@ -3,9 +3,7 @@ layout: page
 title: sjf_fyzik
 permalink: /plug-ins/sjf_fyzik/
 ---
-<img width="778" alt="Screen Shot 2023-04-07 at 09 29 52" src="https://user-images.githubusercontent.com/12850558/230573405-45e877fa-a7f7-4dd2-87c6-d462deee9399.png">
-
-
+<img width="896" alt="sjf_fyzik" src="https://github.com/simohnf/simohnf.github.io/assets/12850558/1fb91e8e-37f6-49ab-8d03-4779b3ea3c75">
 
 
 sjf_fyzik is a physical modelling softsynth based on [Julius Smith's waveguide techniques](https://ccrma.stanford.edu/~jos/swgt/). 
