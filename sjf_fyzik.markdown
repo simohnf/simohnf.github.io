@@ -11,24 +11,11 @@ The synth is designed to create a variety of string and percussive sounds, with 
 
 ---
 
-
-### Audio Samples
-<!--Amen Break Unprocessed-->
-<!--<audio controls>-->
-<!--<source src="/MP3s/amen160.mp3" type="audio/mp3">-->
-<!--</audio>-->
-<!---->
-<!--Funky Drummer Unprocessed-->
-<!--<audio controls>-->
-<!--<source src="/MP3s/funkyDummer160.mp3" type="audio/mp3">-->
-<!--</audio>-->
-<!---->
-<!---->
-<!---->
-<!--Funky Amen Processed-->
-<!--<audio controls>-->
-<!--<source src="/MP3s/amenFunkyMangled160.mp3" type="audio/mp3">-->
-<!--</audio>-->
+### Audio Sample
+Repeated phrase with automated changes towards more percussive sounds and then finishing with harmonics
+<audio controls>
+<source src="/MP3s/fyzik.mp3" type="audio/mp3">
+</audio>
 
 ---
 
