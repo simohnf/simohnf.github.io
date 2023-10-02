@@ -10,15 +10,15 @@ permalink: /plug-ins/sjf_AAIM_Drums/
 
 
 
-sjf_AAIM_Drums combines the [AAIM_rhythmGen and AAIM_patternVary](/AAIM/) algorithms in a 16 voice drum sequencer designed to facilitate the manipulation of drum patterns in real time.
+sjf_AAIM_Drums combines the [AAIM_rhythmGen and AAIM_patternVary](/AAIM/) algorithms in a 16-voice drum sequencer designed to facilitate real-time manipulation of drum patterns.
 
-The plug-in alows users to specify up to 16 different patterns, each of which can have a different time signature, and then apply stochastic variations to these in real-time. 
+The plug-in allows users to specify up to 16 different patterns, each of which can have a different time signature, and then apply stochastic variations to these in real-time. 
 
-The AAIM system allows the insertion of rhythmic tuplets, rests, and additional trigger, into the pattern.
+The AAIM system allows the insertion of rhythmic tuplets, rests, and additional triggers, into the pattern.
 
-Additional features include Markov chain, segment shuffling, reverse, and palindrome variations enabling the creation of a wide range of alternative pattern.
+Additional features include Markov chain, segment shuffling, reverse, and palindrome variations, enabling the creation of a wide range of alternative patterns.
 
-The Audio Unit can be placed as a MIDI Effect in Logic and the VST can be placed before an instrument in Reaper. In Ableton pou will need to [route the MIDI output to another channel](https://help.ableton.com/hc/en-us/articles/209070189-Accessing-the-MIDI-output-of-a-VST-plug-in)... other DAW's will probably need a similar approach.
+The Audio Unit can be placed as a MIDI Effect in Logic and the VST can be placed before an instrument in Reaper. In Ableton, you will need to [route the MIDI output to another channel](https://help.ableton.com/hc/en-us/articles/209070189-Accessing-the-MIDI-output-of-a-VST-plug-in)... other DAW's will probably need a similar approach.
 
 ---
 
