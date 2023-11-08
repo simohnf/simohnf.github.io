@@ -23,8 +23,7 @@ Instruments               | Effects
 [sjf_granSynth](/plug-ins/sjf_granSynth/)<br>[<img width="400" alt="Screen Shot 2023-04-06 at 10 23 28" src="https://user-images.githubusercontent.com/12850558/230367261-063c02da-9d4b-4e89-8d40-2b4df72ec534.png">](/plug-ins/sjf_granSynth/) | [sjf_verb](/plug-ins/sjf_verb/) <br>[<img width="400" alt="Screen Shot 2023-04-06 at 12 38 30" src="https://user-images.githubusercontent.com/12850558/230365942-f94128f9-32ae-4d48-92de-47f7e8015ffc.png">](/plug-ins/sjf_verb/) 
 [sjf_AAIM_Drums](/plug-ins/sjf_AAIM_Drums) <br> [<img width="400" alt="AAIM_Drums" src="https://github.com/simohnf/simohnf.github.io/assets/12850558/c661285b-4127-4198-bae9-7d00086f901b">](/plug-ins/sjf_AAIM_Drums) | [sjf_wrecklessDelay](/plug-ins/sjf_wrecklessDelay/) <br> [<img width="400" alt="Screen Shot 2023-04-06 at 12 39 51" src="https://user-images.githubusercontent.com/12850558/230366209-76841986-428c-4ed9-987a-16a6ea09bb3f.png">](/plug-ins/sjf_wrecklessDelay/) 
  [sjf_fyzik](/plug-ins/sjf_fyzik) <br> [<img width="400" alt="AAIM_Drums" src="https://github.com/simohnf/simohnf.github.io/assets/12850558/1fb91e8e-37f6-49ab-8d03-4779b3ea3c75">](/plug-ins/sjf_fyzik)  | [sjf_moogLadder](/plug-ins/sjf_moogLadder/) <br> [<img width="400" alt="Screen Shot 2023-04-06 at 12 51 37" src="https://user-images.githubusercontent.com/12850558/230369629-be0ecc8a-e1bd-495b-9b04-94d4cb9760fd.png">](/plug-ins/sjf_moogLadder/)     
--- | [sjf_mincer](/plug-ins/sjf_mincer/) <be> [<img width="400" alt="Screenshot 2023-11-08 at 16 11 26" src="https://github.com/simohnf/simohnf.github.io/assets/12850558/1339864c-415b-4307-9da5-ea761956ad65">]
-(/plug-ins/sjf_mincer/)   
+-- | [sjf_mincer](/plug-ins/sjf_mincer/) <be> [<img width="400" alt="Screenshot 2023-11-08 at 16 11 26" src="https://github.com/simohnf/simohnf.github.io/assets/12850558/1339864c-415b-4307-9da5-ea761956ad65">](/plug-ins/sjf_mincer/)   
 
 
 
