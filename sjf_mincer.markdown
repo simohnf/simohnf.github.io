@@ -16,15 +16,22 @@ The probability of triggering grains can be changed to create a more sparse text
 Individual grains can be played in reverse, and grains can be repeated to create various sonic results.
 
 There are three effect processors that are applied to individual grains:
+
 1) Bitcrushing and samplerate reduction
+
 2) Ring modulation
+
 3) Lowpass/highpass/bandpass filter
+
 
 The frequency of both the ring modulator and filter can also be randomly varied on a grain-by-grain basis.
 
 There are three output modes available:
+
 1) Mix: mixes the output of the delay with the dry signal
+
 2) Insert: is dependent on the density parameter and will insert the wet signal whenever a grain is triggered and otherwise the dry signal will be output
+
 3) Gate: is also dependent on the density parameter but will only output the results of the grain engine. This is essentially the same as the mix output mode with the mix parameter set to 100
 
 
