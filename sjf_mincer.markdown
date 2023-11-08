@@ -32,9 +32,9 @@ There are three output modes available:
 ---
 
 ### Audio Sample
-Repeated phrase with automated changes towards more percussive sounds and then finishing with harmonics
+Simple major scale
 <audio controls>
-<source src="/MP3s/fyzik.mp3" type="audio/mp3">
+<source src="majorScale [2023-11-08 162917].mp3" type="audio/mp3">
 </audio>
 
 ---
