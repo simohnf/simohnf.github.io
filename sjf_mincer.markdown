@@ -34,7 +34,7 @@ There are three output modes available:
 ### Audio Sample
 Simple major scale
 <audio controls>
-<source src="majorScale [2023-11-08 162917].mp3" type="audio/mp3">
+<source src="/MP3s/majorScale [2023-11-08 162917].mp3" type="audio/mp3">
 </audio>
 
 ---
