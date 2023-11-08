@@ -47,12 +47,12 @@ Simple major scale
 
 Simple major scale minced (with two harmonies of a perfect fifth and one octave above)
 <audio controls>
-<source src="/MP3s/majorScaleMinced1.aif.mp3" type="audio/mp3">
+<source src="/MP3s/majorScaleMinced1.mp3" type="audio/mp3">
 </audio>
 
 Simple major scale minced (with all three effects processors)
 <audio controls>
-<source src="/MP3s/majorScaleMinced2.aif.mp3" type="audio/mp3">
+<source src="/MP3s/majorScaleMinced2.mp3" type="audio/mp3">
 </audio>
 
 ---
