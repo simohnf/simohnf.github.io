@@ -27,4 +27,5 @@ Instruments               | Effects
 
 
 
+<img width="400" alt="Screenshot 2023-11-08 at 16 11 26" src="https://github.com/simohnf/simohnf.github.io/assets/12850558/a626dd83-b959-4a19-8659-f97642847691">(/plug-ins/sjf_mincer/)
 
