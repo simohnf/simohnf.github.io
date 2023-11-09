@@ -61,6 +61,24 @@ Simple major scale minced (with asynchronous delay variations)
 <source src="/MP3s/majorScaleMinced3.mp3" type="audio/mp3">
 </audio>
 
+
+
+Basic drum beat
+<audio controls>
+<source src="/MP3s/DrumBeat.mp3" type="audio/mp3">
+</audio>
+
+
+Basic drum beat minced to create random variations
+<audio controls>
+<source src="/MP3s/drumBeatMinced1.mp3" type="audio/mp3">
+</audio>
+
+Basic drum beat minced (with all effects and asynchronous delay variations)
+<audio controls>
+<source src="/MP3s/drumBeatMinced2.mp3" type="audio/mp3">
+</audio>
+
 ---
 
 
