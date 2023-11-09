@@ -62,6 +62,14 @@ Simple major scale minced (with asynchronous delay variations)
 </audio>
 
 
+Simple major scale minced (with whole tone above and below the original pitch)
+<audio controls>
+<source src="/MP3s/scaleMinced.mp3" type="audio/mp3">
+</audio>
+
+
+
+
 
 Basic drum beat
 <audio controls>
