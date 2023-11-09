@@ -58,7 +58,7 @@ Simple major scale minced (with all three effects processors)
 
 Simple major scale minced (with asynchronous delay variations)
 <audio controls>
-<source src="/MP3s/majorScaleMinced3.mp3" type="audio/mp3">
+<source src="/MP3s/majorScaleMined3.mp3" type="audio/mp3">
 </audio>
 
 
