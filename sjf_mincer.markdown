@@ -6,7 +6,7 @@ permalink: /plug-ins/sjf_mincer/
 <img width="876" alt="Screenshot 2023-11-08 at 16 11 26" src="https://github.com/simohnf/simohnf.github.io/assets/12850558/2dd2b0ca-5938-4048-8ad3-d0e2724da8a6">
 
 
-sjf_mincer is a granular delay plugin that can apply random playback variations and effects to individual grains, enabling the creation of a wide variety (of mostly chaotic ;) ) textures. 
+sjf_mincer is a granular delay plugin that can apply random playback variations and effects to individual grains, enabling the creation of a wide variety of (mostly chaotic ;) ) textures. 
 
 Delay time and grain rate can either be set in milliseconds or synced to the session tempo, as can random variations applied to the delay time.
 Grains can be triggered at different playback speeds (to achieve pitch shifting), in reverse, and repeated. 
