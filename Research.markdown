@@ -23,7 +23,7 @@ Fay, Simon, and David Eagle. 2013. "ChaoticCounterpoint: An algorithmically assi
 
 "Improvisation in Computer Music." Computational Media Design Workshop, Banff Centre. March 2, 2013.
 
-#Invited Panels
+# Invited Panels
 "Twenty-first century perspectives on music in the digital domain." MusCan Conference, University of Calgary. June 2, 2016.
 
 
