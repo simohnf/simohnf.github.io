@@ -35,7 +35,15 @@ The Audio Unit can be placed as a MIDI Effect in Logic and the VST can be placed
 
 ---
 
-### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/11m5nLWN3vB5lN6gZ5QgWfGv2c37SQyDM/view?usp=sharing)
+<div id="download"></div>
+<div id="donate"></div>
+
+{% include download_button.html %}
+
+<script>
+    createDownloadButton("simohnf", "sjf_AAIM_Drums", "download");
+    createCentredDonateButton("donate");
+</script>
 
 ---
 

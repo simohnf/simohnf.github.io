@@ -35,4 +35,12 @@ Synth Processed
 
 ---
 
-### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1ClYOPMyz8EgQ5VZL_ezNkdCI6Y6QCvBp/view?usp=sharing)
+<div id="download"></div>
+<div id="donate"></div>
+
+{% include download_button.html %}
+
+<script>
+    createDownloadButton("simohnf", "sjf_wrecklessDelay", "download");
+    createCentredDonateButton("donate");
+</script>

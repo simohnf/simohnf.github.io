@@ -89,5 +89,12 @@ Basic drum beat minced (with all effects and asynchronous delay variations)
 
 ---
 
+<div id="download"></div>
+<div id="donate"></div>
 
-### [[Mac OS Installer (VST3 and Audio Unit)]](https://drive.google.com/file/d/1efOEqh4wgEyUMW7A5eY9BZ_-RFV2pIR6/view)
+{% include download_button.html %}
+
+<script>
+    createDownloadButton("simohnf", "sjf_mincer", "download");
+    createCentredDonateButton("donate");
+</script>

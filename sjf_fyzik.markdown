@@ -19,5 +19,12 @@ Repeated phrase with automated changes towards more percussive sounds and then f
 
 ---
 
+<div id="download"></div>
+<div id="donate"></div>
 
-### [[Mac OS Installer (VST3 and Audio Unit)]](https://drive.google.com/file/d/19cOwqCbYHmicSFGJ7pgYoYirQBf1mpjj/view?usp=sharing)
+{% include download_button.html %}
+
+<script>
+    createDownloadButton("simohnf", "sjf_fyzik", "download");
+    createCentredDonateButton("donate");
+</script>

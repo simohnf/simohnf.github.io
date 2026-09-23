@@ -35,5 +35,12 @@ Synth Processed
 
 ---
 
+<div id="download"></div>
+<div id="donate"></div>
 
-### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1G2FlqaL7k5ePSL9Nj0ROjffNeWtjyjEi/view?usp=sharing)
+{% include download_button.html %}
+
+<script>
+    createDownloadButton("simohnf", "sjf_verb", "download");
+    createCentredDonateButton("donate");
+</script>

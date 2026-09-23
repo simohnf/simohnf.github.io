@@ -26,5 +26,12 @@ Synth Processed
 
 ---
 
+<div id="download"></div>
+<div id="donate"></div>
 
-### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/1qtE30yBxCzj1UDCUYw1rTEAtp3g8ZAb6/view?usp=sharing)
+{% include download_button.html %}
+
+<script>
+    createDownloadButton("simohnf", "sjf_moogLadder", "download");
+    createCentredDonateButton("donate");
+</script>

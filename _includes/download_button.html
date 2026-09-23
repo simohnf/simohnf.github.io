@@ -1,0 +1,193 @@
+<script>
+  async function createDownloadButton(owner, repo, containerId) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+
+    container.innerHTML = `
+    <div style="text-align: center; margin: 20px 0; font-family: sans-serif;">
+      <a class="primary-download-btn" href="#" style="display: inline-block; padding: 12px 24px; background-color: #0075FF; color: white; border-radius: 8px; font-weight: bold; text-decoration: none; font-size: 1em;">
+        Checking latest release...
+      </a>
+      <p class="os-detected-label" style="font-size: 0.85em; color: #666; margin-top: 6px;"></p>
+      <div class="all-downloads" style="margin-top: 10px; display: none; font-size: 0.85em; color: #555;">
+        <span>Other platforms: </span>
+        <a class="mac-link" href="#" style="margin: 0 4px; display: none;">macOS</a>
+        <a class="win-link" href="#" style="margin: 0 4px; display: none;">Windows</a>
+        <a class="linux-link" href="#" style="margin: 0 4px; display: none;">Linux</a>
+      </div>
+    </div>
+  `;
+
+    const primaryBtn = container.querySelector('.primary-download-btn');
+    const label = container.querySelector('.os-detected-label');
+    const macLink = container.querySelector('.mac-link');
+    const winLink = container.querySelector('.win-link');
+    const linuxLink = container.querySelector('.linux-link');
+    const allDownloads = container.querySelector('.all-downloads');
+
+    function detectOS() {
+      const userAgent = navigator.userAgent.toLowerCase();
+      if (userAgent.includes("mac")) return "macos";
+      if (userAgent.includes("win")) return "windows";
+      if (userAgent.includes("linux")) return "ubuntu";
+      return "unknown";
+    }
+
+    try {
+      const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/releases/latest`);
+
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+      }
+
+      const release = await response.json();
+      const assets = release.assets;
+
+      const macAsset = assets.find(a => a.name.toLowerCase().includes('.pkg') || a.name.toLowerCase().includes('macos'));
+      const winAsset = assets.find(a => a.name.toLowerCase().includes('windows') || a.name.toLowerCase().includes('.exe'));
+      const linuxAsset = assets.find(a => a.name.toLowerCase().includes('ubuntu') || a.name.toLowerCase().includes('linux'));
+
+      if (macAsset) { macLink.href = macAsset.browser_download_url; macLink.style.display = "inline"; }
+      if (winAsset) { winLink.href = winAsset.browser_download_url; winLink.style.display = "inline"; }
+      if (linuxAsset) { linuxLink.href = linuxAsset.browser_download_url; linuxLink.style.display = "inline"; }
+
+      allDownloads.style.display = 'block';
+
+      const userOS = detectOS();
+
+      if (userOS === "macos" && macAsset) {
+        primaryBtn.href = macAsset.browser_download_url;
+        primaryBtn.innerText = `Download for macOS (${release.tag_name})`;
+        label.innerText = `Detected macOS — ${macAsset.name}`;
+      } else if (userOS === "windows" && winAsset) {
+        primaryBtn.href = winAsset.browser_download_url;
+        primaryBtn.innerText = `Download for Windows (${release.tag_name})`;
+        label.innerText = `Detected Windows — ${winAsset.name}`;
+      } else if (userOS === "ubuntu" && linuxAsset) {
+        primaryBtn.href = linuxAsset.browser_download_url;
+        primaryBtn.innerText = `Download for Linux (${release.tag_name})`;
+        label.innerText = `Detected Linux — ${linuxAsset.name}`;
+      } else {
+        primaryBtn.href = release.html_url;
+        primaryBtn.innerText = `View Release (${release.tag_name})`;
+        label.innerText = "Select your operating system below";
+      }
+
+    } catch (err) {
+      console.error(`Failed to fetch downloads for ${owner}/${repo}:`, err);
+      primaryBtn.href = `https://github.com/${owner}/${repo}/releases`;
+      primaryBtn.innerText = "View Downloads on GitHub";
+      label.innerText = "Unable to fetch direct downloads automatically";
+    }
+  }
+</script>
+
+
+<script>
+    async function createDownloadButton(owner, repo, containerId) {
+        const container = document.getElementById(containerId);
+        if (!container) return;
+
+        container.innerHTML = `
+    <div style="text-align: center; margin: 20px 0; font-family: sans-serif;">
+      <a class="primary-download-btn" href="#" style="display: inline-block; padding: 12px 24px; background-color: #0075FF; color: white; border-radius: 8px; font-weight: bold; text-decoration: none; font-size: 1em;">
+        Checking latest release...
+      </a>
+      <p class="os-detected-label" style="font-size: 0.85em; color: #666; margin-top: 6px;"></p>
+      <div class="all-downloads" style="margin-top: 10px; display: none; font-size: 0.85em; color: #555;">
+        <span>Other platforms: </span>
+        <a class="mac-link" href="#" style="margin: 0 4px; display: none;">macOS</a>
+        <a class="win-link" href="#" style="margin: 0 4px; display: none;">Windows</a>
+        <a class="linux-link" href="#" style="margin: 0 4px; display: none;">Linux</a>
+      </div>
+    </div>
+  `;
+
+        const primaryBtn = container.querySelector('.primary-download-btn');
+        const label = container.querySelector('.os-detected-label');
+        const macLink = container.querySelector('.mac-link');
+        const winLink = container.querySelector('.win-link');
+        const linuxLink = container.querySelector('.linux-link');
+        const allDownloads = container.querySelector('.all-downloads');
+
+        function detectOS() {
+            const userAgent = navigator.userAgent.toLowerCase();
+            if (userAgent.includes("mac")) return "macos";
+            if (userAgent.includes("win")) return "windows";
+            if (userAgent.includes("linux")) return "ubuntu";
+            return "unknown";
+        }
+
+        try {
+            const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/releases/latest`);
+
+            if (!response.ok) {
+                throw new Error(`HTTP ${response.status}`);
+            }
+
+            const release = await response.json();
+            const assets = release.assets;
+
+            const macAsset = assets.find(a => a.name.toLowerCase().includes('.pkg') || a.name.toLowerCase().includes('macos'));
+            const winAsset = assets.find(a => a.name.toLowerCase().includes('windows') || a.name.toLowerCase().includes('.exe'));
+            const linuxAsset = assets.find(a => a.name.toLowerCase().includes('ubuntu') || a.name.toLowerCase().includes('linux'));
+
+            if (macAsset) { macLink.href = macAsset.browser_download_url; macLink.style.display = "inline"; }
+            if (winAsset) { winLink.href = winAsset.browser_download_url; winLink.style.display = "inline"; }
+            if (linuxAsset) { linuxLink.href = linuxAsset.browser_download_url; linuxLink.style.display = "inline"; }
+
+            allDownloads.style.display = 'block';
+
+            const userOS = detectOS();
+
+            if (userOS === "macos" && macAsset) {
+                primaryBtn.href = macAsset.browser_download_url;
+                primaryBtn.innerText = `Download for macOS (${release.tag_name})`;
+                label.innerText = `Detected macOS — ${macAsset.name}`;
+            } else if (userOS === "windows" && winAsset) {
+                primaryBtn.href = winAsset.browser_download_url;
+                primaryBtn.innerText = `Download for Windows (${release.tag_name})`;
+                label.innerText = `Detected Windows — ${winAsset.name}`;
+            } else if (userOS === "ubuntu" && linuxAsset) {
+                primaryBtn.href = linuxAsset.browser_download_url;
+                primaryBtn.innerText = `Download for Linux (${release.tag_name})`;
+                label.innerText = `Detected Linux — ${linuxAsset.name}`;
+            } else {
+                primaryBtn.href = release.html_url;
+                primaryBtn.innerText = `View Release (${release.tag_name})`;
+                label.innerText = "Select your operating system below";
+            }
+
+        } catch (err) {
+            console.error(`Failed to fetch downloads for ${owner}/${repo}:`, err);
+            primaryBtn.href = `https://github.com/${owner}/${repo}/releases`;
+            primaryBtn.innerText = "View Downloads on GitHub";
+            label.innerText = "Unable to fetch direct downloads automatically";
+        }
+    }
+
+
+function createDonateButton(containerId, url = "https://revolut.me/simon0ywj", colour="black") {
+const container = document.getElementById(containerId);
+if (!container) return;
+
+container.innerHTML = `
+    <a class="page-link" href="${url}" target="_blank" rel="noopener noreferrer" style="color: ${colour};">[ Donate ]</a>
+`;
+}
+
+function createCentredDonateButton(containerId, url = "https://revolut.me/simon0ywj", colour="dimgrey") {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+
+    // 1. First, create the centered wrapper markup
+    container.innerHTML = `
+    <div style="text-align: center; margin: 15px 0; font-family: sans-serif;">
+      <div id="${containerId}-inner"></div>
+    </div>
+  `;
+
+    // 2. Call createDonateButton directly targeting the inner div
+    createDonateButton(`${containerId}-inner`, url, colour);
+}
+</script>

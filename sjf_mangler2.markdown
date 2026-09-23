@@ -34,7 +34,16 @@ Funky Amen Processed
 <source src="/MP3s/amenFunkyMangled160.mp3" type="audio/mp3">
 </audio>
 
+
 ---
 
+<div id="download"></div>
+<div id="donate"></div>
 
-### [Mac OS Installer (VST3 and Audio Unit)](https://drive.google.com/file/d/17f0MGTelan0ovXFidRFYP-tmmOYg3U7M/view?usp=sharing)
+{% include download_button.html %}
+
+<script>
+    createDownloadButton("simohnf", "sjf_mangler", "download");
+    createCentredDonateButton("donate");
+</script>
+

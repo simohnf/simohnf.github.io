@@ -25,6 +25,10 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+
+          <a id="donate_header"></a>
+          {% include download_button.html %}
+          <script> createDonateButton("donate_header", "https://revolut.me/simon0ywj", "black"); </script>
         </div>
       </nav>
     {%- endif -%}
