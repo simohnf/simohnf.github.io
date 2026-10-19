@@ -5,6 +5,9 @@ permalink: /plug-ins/sjf_modchain/
 ---
 
 
+<img width="1103" height="995" alt="modchain1" src="https://github.com/user-attachments/assets/3b598898-a426-478c-ae6d-8c1722aaa20b" />
+<img width="1103" height="995" alt="modchain2" src="https://github.com/user-attachments/assets/426da40f-54b7-4b43-b535-0ed30c9edd84" />
+
 
 
 *sjf_modchain* is a flexible semi-modular multi-effects engine. Featuring a comprehensive suite of effect modules driven by an array of freely assignable modulators.
