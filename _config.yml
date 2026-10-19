@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: sjf_plugins
-email: simonjohnfay@gmail.com
+email: info@sjfaudio.co.uk
 description: |-
   sjf_plugins: Plugins for creative sound design
   
@@ -42,6 +42,7 @@ header_pages:
   - PD&Max.markdown
   - Music.markdown
   - Research.markdown
+  - Services.markdown
   # - </li>
   # - <li class="nav-item dropdown">
   #    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>

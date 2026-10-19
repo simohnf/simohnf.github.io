@@ -41,11 +41,9 @@ White Noise Processed
 ---
 
 <div id="download"></div>
-<div id="donate"></div>
 
 {% include download_button.html %}
 
 <script>
     createDownloadButton("simohnf", "sjf_spectralProcessor", "download");
-    createCentredDonateButton("donate");
 </script>

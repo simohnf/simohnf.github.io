@@ -19,12 +19,11 @@ Repeated phrase with automated changes towards more percussive sounds and then f
 
 ---
 
+
 <div id="download"></div>
-<div id="donate"></div>
 
 {% include download_button.html %}
 
 <script>
     createDownloadButton("simohnf", "sjf_fyzik", "download");
-    createCentredDonateButton("donate");
 </script>

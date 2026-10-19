@@ -9,7 +9,7 @@ sjf_plugins are a series of VST3 and AudioUnit plug-ins made using [JUCE](https:
 
 Repositories are all available on my [github](https://github.com/simohnf?tab=repositories).
 
-[Mac OS Installers (VST3 and Audio Unit) for all plug-ins can be found here](https://drive.google.com/drive/folders/1piEnl876RCiykb0to32ifza1FNUnVpKk?usp=sharing)
+[//]: # ([Mac OS Installers &#40;VST3 and Audio Unit&#41; for all plug-ins can be found here]&#40;https://drive.google.com/drive/folders/1piEnl876RCiykb0to32ifza1FNUnVpKk?usp=sharing&#41;)
 
 ---
 

@@ -81,11 +81,9 @@ Spoken Word Convolved with [Sample of Cars Passing](https://freesound.org/people
 ---
 
 <div id="download"></div>
-<div id="donate"></div>
 
 {% include download_button.html %}
 
 <script>
     createDownloadButton("simohnf", "sjf_convo", "download");
-    createCentredDonateButton("donate");
 </script>

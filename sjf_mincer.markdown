@@ -90,11 +90,9 @@ Basic drum beat minced (with all effects and asynchronous delay variations)
 ---
 
 <div id="download"></div>
-<div id="donate"></div>
 
 {% include download_button.html %}
 
 <script>
     createDownloadButton("simohnf", "sjf_mincer", "download");
-    createCentredDonateButton("donate");
 </script>

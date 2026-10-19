@@ -36,13 +36,11 @@ The Audio Unit can be placed as a MIDI Effect in Logic and the VST can be placed
 ---
 
 <div id="download"></div>
-<div id="donate"></div>
 
 {% include download_button.html %}
 
 <script>
     createDownloadButton("simohnf", "sjf_AAIM_Drums", "download");
-    createCentredDonateButton("donate");
 </script>
 
 ---

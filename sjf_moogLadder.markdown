@@ -27,11 +27,9 @@ Synth Processed
 ---
 
 <div id="download"></div>
-<div id="donate"></div>
 
 {% include download_button.html %}
 
 <script>
     createDownloadButton("simohnf", "sjf_moogLadder", "download");
-    createCentredDonateButton("donate");
 </script>
