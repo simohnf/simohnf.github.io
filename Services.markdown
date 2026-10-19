@@ -8,7 +8,7 @@ I am available for contract work, including (but not limited to):
 
 #### Technical & Development Services
 
-- Audio / DSP Development (C++, Max/MSP, Pure Data, JUCE)
+- Audio / DSP Development (C++, JUCE, Max/MSP, Pure Data)
 - Custom Plugin & Softsynth Creation
 - Code Optimization & Performance Tuning
 - System Architecture & Technical Design
