@@ -8,7 +8,7 @@ permalink: /plug-ins/sjf_modchain/
     <img width="334" height="367" alt="mc_logo" src="/Images/mc_logo.png" />
 </p>
 
-<iframe width="600" height="400" src="https://www.youtube.com/embed/eoj4ZDR5FSI?list=PLEZ5qOoNxYwVrghYJsvoYjnql9Ni5SUn3" title="sjf_modchain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="600" height="400" src="https://youtu.be/Oc0vaNIk32k" title="sjf_modchain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
