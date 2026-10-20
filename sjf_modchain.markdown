@@ -8,6 +8,8 @@ permalink: /plug-ins/sjf_modchain/
     <img width="334" height="367" alt="mc_logo" src="/Images/mc_logo.png" />
 </p>
 
+<iframe width="600" height="400" src="https://www.youtube.com/embed/eoj4ZDR5FSI?list=PLEZ5qOoNxYwVrghYJsvoYjnql9Ni5SUn3" title="AAIM.rhythmGen Demonstration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ---
 
 *sjf_modchain* is a flexible semi-modular multi-effects engine. Featuring a comprehensive suite of effect modules driven by an array of freely assignable modulators.
@@ -27,11 +29,6 @@ permalink: /plug-ins/sjf_modchain/
 <p align="center">
     <img width="500" alt="modchain2" src="/Images/modchain2.png" />
 </p>
-
-
----
-
-### Audio Samples
 
 
 ---
