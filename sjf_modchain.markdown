@@ -5,7 +5,7 @@ permalink: /plug-ins/sjf_modchain/
 ---
 
 <p align="center">
-    <img width="334" height="367" alt="mc_logo" src="https://github.com/user-attachments/assets/5d1a02ec-0517-41d2-a907-6edddc21a382" />
+    <img width="334" height="367" alt="mc_logo" src="Images/mc_logo.png" />
 </p>
 
 ---
@@ -14,8 +14,8 @@ permalink: /plug-ins/sjf_modchain/
 
 ---
 
-<img width="500" alt="modchain1" src="https://github.com/user-attachments/assets/3b598898-a426-478c-ae6d-8c1722aaa20b" />
-<img width="500" alt="modchain2" src="https://github.com/user-attachments/assets/426da40f-54b7-4b43-b535-0ed30c9edd84" />
+<img width="500" alt="modchain1" src="Images/modchain1.png" />
+<img width="500" alt="modchain2" src="Images/modchain2.png" />
 
 
 
