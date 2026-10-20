@@ -5,7 +5,7 @@ permalink: /plug-ins/sjf_modchain/
 ---
 
 <p align="center">
-    <img width="334" height="367" alt="mc_logo" src="Images/mc_logo.png" />
+    <img width="334" height="367" alt="mc_logo" src="/Images/mc_logo.png" />
 </p>
 
 ---
@@ -14,8 +14,8 @@ permalink: /plug-ins/sjf_modchain/
 
 ---
 
-<img width="500" alt="modchain1" src="Images/modchain1.png" />
-<img width="500" alt="modchain2" src="Images/modchain2.png" />
+<img width="500" alt="modchain1" src="/Images/modchain1.png" />
+<img width="500" alt="modchain2" src="/Images/modchain2.png" />
 
 
 
