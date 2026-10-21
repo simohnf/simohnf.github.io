@@ -11,6 +11,7 @@ Repositories are all available on my [github](https://github.com/simohnf?tab=rep
 
 [//]: # ([Mac OS Installers &#40;VST3 and Audio Unit&#41; for all plug-ins can be found here]&#40;https://drive.google.com/drive/folders/1piEnl876RCiykb0to32ifza1FNUnVpKk?usp=sharing&#41;)
 
+---
 
 ---
 
@@ -23,7 +24,13 @@ Repositories are all available on my [github](https://github.com/simohnf?tab=rep
     <img width="334" height="367" alt="mc_logo" src="/Images/mc_logo.png" style="display: inline-block;" />
   </a>
 
+<a href="/plug-ins/sjf_modchain"> v0.0.1 of my newest plugin is out now!</a>
+
 </div>
+
+
+---
+
 ---
 
 ### Further information on each is available through the following links
