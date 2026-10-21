@@ -26,14 +26,18 @@ description: |-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  simohnf
-linkedin_username: simon-fay
+#github_username:  simohnf
+#linkedin_username: simon-fay
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
+minima:
+  skin: dark
+  hide_site_feed_link: true
 
 # change navigation
 header_pages:

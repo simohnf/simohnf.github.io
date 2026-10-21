@@ -1,5 +1,18 @@
 <header class="site-header">
 
+  <style>
+    .trigger .page-link {
+      color: inherit;
+      text-decoration: none; /* Optional: Removes the underline if you don't want it */
+    }
+    .trigger .page-link:hover {
+      text-decoration: underline; /* Optional: Keeps underline on hover for accessibility */
+    }
+    .trigger .separator {
+      color: inherit; /* Ensures the separator matches the text color */
+    }
+  </style>
+
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -22,7 +35,7 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a> <span class="separator"> | </span>
             {%- endif -%}
           {%- endfor -%}
 
