@@ -42,3 +42,21 @@ permalink: /plug-ins/sjf_modchain/
 </script>
 
 ---
+
+### Bug Reports and Feature Requests
+
+*sjf_modchain* is an ongoing project, and as time passes I intend to add more features, modulators, and processors. 
+
+
+If you find any bugs please report the to <support@sjfaudio.co.uk>.
+
+
+You are welcome to request new features, but please keep in mind that not every request will be possible and even those that are may take time to implement. 
+
+
+Please also consider [donating](https://simon-fay.kit.com/products/support) if you have not already done so.
+
+
+*sjf*
+
+---
